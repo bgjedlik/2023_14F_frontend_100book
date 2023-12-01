@@ -15,7 +15,9 @@
           <li class="nav-item">
             <router-link class="nav-link" to="/konyvek">Könyvek</router-link>
           </li>
-          
+          <li class="nav-item">
+            <router-link class="nav-link" to="/konyvek-szerzo">Könyvek szerző szerint</router-link>
+          </li>
         </ul>
      
       </div>
